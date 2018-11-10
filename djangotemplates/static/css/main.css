@@ -1,0 +1,27 @@
+
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+div {
+
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+img.rounded-corners {
+border-radius: 30px;
+}
+
+/* the code below is the background pic*/
+body{
+background: url(background.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
